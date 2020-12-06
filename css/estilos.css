@@ -329,3 +329,28 @@ figure {
   height: inherit;
   flex-wrap: inherit;
 }
+
+
+/* Desktop First 
+  SE EMPIEZA DESDE EL MEDIA QUERY MAS GRANDE
+*/
+
+
+@media screen and (max-width: 1024px) {
+
+}
+
+
+@media screen and (max-width: 768px) {
+  body {
+
+  }
+}
+
+@media screen and (max-width: 480px) {
+  
+}
+
+@media screen and (max-width: 320px) {
+  
+}
